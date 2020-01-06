@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://docs.passbook.beryju.org/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/installation/install/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/installation/install/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/installation/docker-compose/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/installation/docker-compose/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/installation/kubernetes/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/installation/kubernetes/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/sources/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/sources/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/providers/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/providers/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/property-mappings/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/property-mappings/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/factors/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/factors/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/policies/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/policies/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/integrations/services/gitlab/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/integrations/services/gitlab/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/integrations/services/rancher/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/integrations/services/rancher/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/integrations/services/harbor/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/integrations/services/harbor/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.passbook.beryju.org/integrations/services/sentry/</loc>
-     <lastmod>2019-12-30</lastmod>
+     <loc>https://beryju.github.io/passbook/integrations/services/sentry/</loc>
+     <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
