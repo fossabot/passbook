@@ -46,6 +46,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://beryju.github.io/passbook/integrations/services/aws/</loc>
+     <lastmod>2020-02-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://beryju.github.io/passbook/integrations/services/gitlab/</loc>
      <lastmod>2020-02-18</lastmod>
      <changefreq>daily</changefreq>

@@ -388,6 +388,18 @@
           
           
 
+
+  <li class="md-nav__item">
+    <a href="../aws/" title="Amazon Web Services" class="md-nav__link">
+      Amazon Web Services
+    </a>
+  </li>
+
+        
+          
+          
+          
+
   
 
 
@@ -644,7 +656,7 @@
 <li>Audience: <code>https://gitlab.company</code></li>
 <li>Issuer: <code>https://gitlab.company</code></li>
 </ul>
-<p>You can of course use a custom Signing Certificate, and adjust the Assertion Length. To get the value for <code>idp_cert_fingerprint</code>, you can use a tool like <a href="https://www.samltool.com/fingerprint.php">this</a>.</p>
+<p>You can of course use a custom Signing Certificate, and adjust durations. To get the value for <code>idp_cert_fingerprint</code>, you can use a tool like <a href="https://www.samltool.com/fingerprint.php">this</a>.</p>
 <h2 id="gitlab-configuration">GitLab Configuration<a class="headerlink" href="#gitlab-configuration" title="Permanent link">¶</a></h2>
 <p>Paste the following block in your <code>gitlab.rb</code> file, after replacing the placeholder values from above. The file is located in <code>/etc/gitlab</code>.</p>
 <pre><code class="ruby">gitlab_rails['omniauth_enabled'] = true
@@ -697,7 +709,7 @@ gitlab_rails['omniauth_providers'] = [
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../../../policies/" title="Policies" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../aws/" title="Amazon Web Services" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -706,7 +718,7 @@ gitlab_rails['omniauth_providers'] = [
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Policies
+                Amazon Web Services
               </span>
             </div>
           </a>
