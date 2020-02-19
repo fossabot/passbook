@@ -363,10 +363,70 @@
       
 
 
-  <li class="md-nav__item">
-    <a href="../property-mappings/" title="Property Mappings" class="md-nav__link">
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
       Property Mappings
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Property Mappings
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../property-mappings/" title="Overview" class="md-nav__link">
+      Overview
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-2" type="checkbox" id="nav-5-2">
+    
+    <label class="md-nav__link" for="nav-5-2">
+      Reference
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-5-2">
+        Reference
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../property-mappings/reference/user-object/" title="User Object" class="md-nav__link">
+      User Object
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -387,10 +447,46 @@
       
 
 
-  <li class="md-nav__item">
-    <a href="../policies/" title="Policies" class="md-nav__link">
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
       Policies
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Policies
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../policies/" title="Overview" class="md-nav__link">
+      Overview
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../policies/expression/" title="Expression" class="md-nav__link">
+      Expression
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -514,66 +610,6 @@
   </li>
 
     
-      
-      
-      
-
-
-  <li class="md-nav__item md-nav__item--nested">
-    
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
-    
-    <label class="md-nav__link" for="nav-9">
-      Reference
-    </label>
-    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-9">
-        Reference
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
-  <li class="md-nav__item md-nav__item--nested">
-    
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-1" type="checkbox" id="nav-9-1">
-    
-    <label class="md-nav__link" for="nav-9-1">
-      Property Mappings
-    </label>
-    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
-      <label class="md-nav__title" for="nav-9-1">
-        Property Mappings
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../reference/property-mappings/user-object/" title="User Object" class="md-nav__link">
-      User Object
-    </a>
-  </li>
-
-        
-      </ul>
-    </nav>
-  </li>
-
-        
-      </ul>
-    </nav>
-  </li>
-
-    
   </ul>
 </nav>
                   </div>
@@ -642,15 +678,8 @@
 <p>This provider is slightly different than the OpenID Provider. While it uses the same basic OAuth2 Protocol, it provides a GitHub-compatible Endpoint. This allows you to integrate Applications, which don't support Custom OpenID Providers.
 The API exposes Username, E-Mail, Name and Groups in a GitHub-compatible format.</p>
 <h2 id="saml-provider">SAML Provider<a class="headerlink" href="#saml-provider" title="Permanent link">¶</a></h2>
-<p>This provider allows you to integrate Enterprise Software using the SAML2 Protocol. It supports signed Requests. This Provider also has <a href="../property-mappings/#saml-property-mapping">Property Mappings</a>, which allows you to expose Vendor-specific Fields.
-Default fields are:</p>
-<ul>
-<li><code>eduPersonPrincipalName</code>: User's E-Mail</li>
-<li><code>cn</code>: User's Full Name</li>
-<li><code>mail</code>: User's E-Mail</li>
-<li><code>displayName</code>: User's Username</li>
-<li><code>uid</code>: User Unique Identifier</li>
-</ul>
+<p>This provider allows you to integrate Enterprise Software using the SAML2 Protocol. It supports signed Requests. This Provider uses <a href="../property-mappings/#saml-property-mapping">Property Mappings</a> to determine which fields are exposed and what values they return. This makes it possible to expose Vendor-specific Fields.
+Default fields are exposed through Auto-generated Property Mappings, which are prefixed with "Autogenerated..."</p>
                 
                   
                 
@@ -687,13 +716,13 @@ Default fields are:</p>
           </a>
         
         
-          <a href="../property-mappings/" title="Property Mappings" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../property-mappings/" title="Overview" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Property Mappings
+                Overview
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
