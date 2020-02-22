@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://beryju.github.io/passbook/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/installation/install/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/installation/docker-compose/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/installation/kubernetes/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/sources/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/providers/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/property-mappings/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/property-mappings/reference/user-object/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/factors/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/policies/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/policies/expression/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/integrations/services/aws/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/integrations/services/gitlab/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/integrations/services/rancher/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/integrations/services/harbor/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/integrations/services/sentry/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://beryju.github.io/passbook/integrations/services/tower-awx/</loc>
-     <lastmod>2020-02-19</lastmod>
+     <lastmod>2020-02-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
